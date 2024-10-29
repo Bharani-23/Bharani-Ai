@@ -1,0 +1,55 @@
+.form-button{
+    /* margin-top: -10px; */
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-left: 10px;
+    padding:0px 40px 40px 40px;
+
+
+    
+}
+
+
+img{
+    max-width: 100%;
+    width: 10%;
+}
+
+.fild-input{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    /* padding: 90px !important; */
+    /* background-color: red; */
+
+}
+input{
+    padding: 2.2px;
+    font-size: 15px;
+}
+.ai-inpute{
+    all: unset;
+    border-bottom: 2px solid black;
+    padding-right: 10px;
+    text-align: left;
+}
+
+#response{
+    color: #000000;
+    overflow-x: unset;
+}
+
+@media screen and (max-width:482px) {
+    .form-button{
+      
+        margin-top: 10px;
+    }
+}
+
+
+.arun-title{
+    font-weight: 700;
+}
+
+.arun-sup{
+    font-weight:700;
+}
