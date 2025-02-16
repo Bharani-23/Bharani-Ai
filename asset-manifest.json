@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bharani-Ai/static/css/main.c2b0e39b.css",
+    "main.js": "/Bharani-Ai/static/js/main.b45e7a21.js",
+    "static/js/453.689fe5c4.chunk.js": "/Bharani-Ai/static/js/453.689fe5c4.chunk.js",
+    "static/media/logo.svg": "/Bharani-Ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Bharani-Ai/index.html",
+    "main.c2b0e39b.css.map": "/Bharani-Ai/static/css/main.c2b0e39b.css.map",
+    "main.b45e7a21.js.map": "/Bharani-Ai/static/js/main.b45e7a21.js.map",
+    "453.689fe5c4.chunk.js.map": "/Bharani-Ai/static/js/453.689fe5c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b0e39b.css",
+    "static/js/main.b45e7a21.js"
+  ]
+}
