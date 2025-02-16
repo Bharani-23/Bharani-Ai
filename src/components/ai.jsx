@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 // You need to correctly install or mock the `GoogleGenerativeAI` library, which isn't officially available.
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-import logo from '../components/icon.png';
+
 
 
 
@@ -48,7 +48,7 @@ const Arun = () => {
     <>
     <div className="body">
     <div className="container pt-5  "  >
-      <h1 className='text-center arun-title'><img src={logo} alt="html" /> Arun AI Interaction</h1>
+      <h1 className='text-center arun-title'> AI Interaction</h1>
       <form className='text-center mt-5 pb-3  ' onSubmit={handleSubmit}>
         <label className='fs-5  arun-sup fw-900 '>
            Enter Your Query:
