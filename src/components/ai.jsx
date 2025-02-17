@@ -48,7 +48,7 @@ const Arun = () => {
     <>
     <div className="body">
     <div className="container pt-5  "  >
-      <h1 className='text-center arun-title'> AI Interaction</h1>
+      <h1 className='text-center arun-title'>Bharani AI Interaction</h1>
       <form className='text-center mt-5 pb-3  ' onSubmit={handleSubmit}>
         <label className='fs-5  arun-sup fw-900 '>
            Enter Your Query:
